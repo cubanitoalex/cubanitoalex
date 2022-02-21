@@ -42,7 +42,7 @@
 ## Connect with me  
 <div align="center">
 <a href="mailto:alexiparra@gmail.com">
-<img alt="Gmail" width="26px" src="https://github.com/cubanitoalex/cubanitoalex/blob/master/asset/Gmail.svg" />
+<img alt="Gmail" width="26px" src="https://github.com/cubanitoalex/cubanitoalex/blob/main/asset/Gmail.svg" />
 </a>
 <a href="https://www.linkedin.com/in/cubanitoalex/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -53,11 +53,11 @@
 <a href="https://twitter.com/cubanito_alex" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/10601367/eriel-mejias" target="_blank">
+<a href="https://stackoverflow.com/users/edit/12572243/cubanitoalex" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/cubanitoalex/" target="_blank">
+<a href="https://www.instagram.com/cubanito_ale/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 </div>
